@@ -1,0 +1,3 @@
+﻿  prova.cpp
+C:\Users\JoseArguesoPonce.AzureAD\Documents\GitHub\git\Bomboclatt\Bomboclatt\prova.cpp(2,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Bomboclatt.vcxproj -> C:\Users\JoseArguesoPonce.AzureAD\Documents\GitHub\git\Bomboclatt\x64\Debug\Bomboclatt.exe
