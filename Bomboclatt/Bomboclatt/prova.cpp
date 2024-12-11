@@ -6,4 +6,5 @@ void main() {
 	std::cin >> userName;
 
 	std::cout << "Welcome "  << userName<< std::endl;
+
 }
